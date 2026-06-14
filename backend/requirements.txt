@@ -1,0 +1,24 @@
+fastapi
+uvicorn[standard]
+sqlalchemy
+pydantic
+pydantic-settings
+alembic
+python-dotenv
+# Added for LangGraph/RAG (Will need these in later stages but good to have)
+langchain
+langchain-community
+langchain-core
+langgraph
+chromadb
+PyPDF2
+langchain-google-genai
+langchain-groq
+langchain-huggingface
+PyJWT
+passlib
+bcrypt
+python-multipart
+sentence-transformers
+email-validator
+python-jose[cryptography]
